@@ -147,6 +147,7 @@ Create a `.env` file in the root:
 
 ```env
 DATABASE_URL="postgresql://username:password@localhost:5432/bitespeed"
+PORT = 3000
 ```
 
 ⚠️ Do NOT commit `.env` to GitHub.
